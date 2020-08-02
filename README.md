@@ -1,6 +1,7 @@
 # latihan_image_widget
 
-A new Flutter project.
+Tampilan Latihan penggunaan image widget gambar dari internet dan local
+tampilan : 
 
 ## Getting Started
 
