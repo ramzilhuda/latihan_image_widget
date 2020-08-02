@@ -2,6 +2,7 @@
 
 Tampilan Latihan penggunaan image widget gambar dari internet dan local
 tampilan : 
+![Screenshot_2020-08-02-09-08-02-44_df5455c92878553d29c4ff4653d032be 1](https://user-images.githubusercontent.com/60292040/89113866-7c179e80-d4a0-11ea-94e3-15de126640be.png)
 
 ## Getting Started
 
